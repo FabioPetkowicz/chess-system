@@ -1,0 +1,27 @@
+# Arquivos compilados
+*.class
+
+# Diretorios de build
+/bin/
+/out/
+/target/
+/build/
+/dist/
+
+# Logs
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+.mvn/
+target/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+*.swp
+*~
